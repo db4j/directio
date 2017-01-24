@@ -1,0 +1,7 @@
+directio: jni and c native methods for posix fadvise
+
+another package with similar functionality:
+  https://github.com/twitter/bookkeeper/blob/master/bookkeeper-server/src/main/native/src/org/apache/bookkeeper/util/NativeIO.c
+
+
+
