@@ -22,7 +22,7 @@
                         <goals> <goal>exec</goal> </goals>
                         <configuration>
                             <workingDirectory>${basedir}/native</workingDirectory>
-                            <executable>./native/makefile</executable>
+                            <executable>${basedir}/native/makefile</executable>
                         </configuration>
                     </execution>
                 </executions>
