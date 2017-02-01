@@ -7,7 +7,7 @@
         <groupId>com.nqzero</groupId>
         <artifactId>soup-project</artifactId>
         <version>1.0</version>
-	<relativePath></relativePath>
+	<relativePath/>
     </parent>
     <build>
         <plugins>
